@@ -1,5 +1,5 @@
 {
-  "name": "type-guard",
+  "name": "ts-type-guard",
   "version": "0.0.1",
   "description": "Typescript's type guard utils.",
   "main": "./lib/index.js",
