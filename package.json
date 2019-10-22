@@ -4,7 +4,8 @@
   "description": "Typescript's type guard utils.",
   "main": "./lib/index.js",
   "scripts": {
-    "test": "npm test"
+    "test": "npm test",
+    "publish": "tsc && npm publish"
   },
   "keywords": [
     "typescript",
