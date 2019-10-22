@@ -2,10 +2,11 @@
   "name": "ts-type-guard",
   "version": "0.0.1",
   "description": "Typescript's type guard utils.",
-  "main": "index.js",
+  "main": "./lib/index.js",
   "scripts": {
     "test": "npm test",
-    "publish": "tsc && npm publish"
+    "build": "tsc",
+    "pub": "npm run build && npm publish"
   },
   "keywords": [
     "typescript",
